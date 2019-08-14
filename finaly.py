@@ -22,7 +22,6 @@ def execute():
         elif num==5:
             subprocess.call("python gamee.py")
         elif num==6:
-            nowitness
             subprocess.call("python nowitness.py")
         else:
             print("Invalid input!")
